@@ -1,0 +1,1590 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001May-03-2017 at 22:20:26 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='IOT MODULE_V1';
+ POST_TIME='Aug  8 2016 18:41:50';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_NP_C1210_476':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16791305@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16791305@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16791305@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS4224@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins4224@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins4224@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_NP_C0603_106':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS4302@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins4302@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins4302@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS4250@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins4250@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins4250@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS6365@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins6365@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins6365@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS7087@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins7087@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins7087@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS6593@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins6593@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins6593@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS6432@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins6432@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins6432@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS6619@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins6619@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins6619@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS27681@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins27681@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins27681@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS24776@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins24776@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins24776@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_NP_C1210_476':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16791318@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16791318@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16791318@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP_NP_C0402_270':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS10762@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins10762@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins10762@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP_NP_C0402_270':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS10804@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins10804@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins10804@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP_NP_C0402_270':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS10839@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins10839@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins10839@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP_NP_C0402_120':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS12143@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins12143@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins12143@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP_NP_C0402_120':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS12169@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins12169@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins12169@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP_NP_C0402_330':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS12205@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins12205@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins12205@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP_NP_C0402_330':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS12221@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins12221@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins12221@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP_NP_C0402_120':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS12247@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins12247@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins12247@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP_NP_C0402_330':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS12273@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins12273@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins12273@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP_NP_C0402_120':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS14868@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins14868@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins14868@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_NP_C0402_220':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS42339@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins42339@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins42339@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP_POL_CT7343_477':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS10092@BOVEY.CAP_POL.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins10092@bovey.\cap_pol.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins10092@bovey.\cap_pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP_POL_CT7343_477':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS10118@BOVEY.CAP_POL.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins10118@bovey.\cap_pol.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins10118@bovey.\cap_pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP_NP_C0603_105':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS10144@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins10144@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins10144@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP_NP_C0402_330':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS14816@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins14816@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins14816@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP_NP_C0402_330':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS14842@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins14842@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins14842@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP_NP_C0402_120':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS15245@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins15245@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins15245@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP_NP_C0402_120':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS15261@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins15261@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins15261@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP_NP_C0402_330':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS15765@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins15765@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins15765@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP_NP_C0402_330':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS15791@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins15791@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins15791@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS17463@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins17463@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins17463@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_NP_C0402_220':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS42365@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins42365@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins42365@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16735955@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16735955@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins16735955@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS21328@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins21328@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins21328@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP_NP_C0603_106':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS21354@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins21354@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins21354@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP_NP_C0603_105':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS58165@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins58165@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins58165@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP_NP_C0603_105':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS59584@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins59584@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins59584@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP_NP_C0402_103':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS59610@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins59610@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins59610@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS22720@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins22720@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins22720@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'CAP_NP_C0603_106':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS22736@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins22736@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins22736@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'CAP_NP_C0402_103':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS59011@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins59011@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins59011@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS56553@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins56553@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins56553@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_NP_C0603_106':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS4110@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins4110@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins4110@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP_NP_C0603_106':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS60611@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins60611@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins60611@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP_NP_C0603_106':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS62154@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins62154@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins62154@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS62180@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins62180@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins62180@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP_NP_C1210_476':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS56603@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins56603@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins56603@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP_NP_C1210_476':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS56679@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins56679@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins56679@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C55 'CAP_NP_C0603_106':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS55478@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins55478@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins55478@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C56 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS55504@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins55504@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins55504@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C57 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS55745@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins55745@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins55745@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C58 'CAP_NP_C0402_472':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS57257@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins57257@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins57257@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP_NP_C0402_390':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS57300@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins57300@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins57300@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS4136@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins4136@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins4136@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C60 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16789026@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16789026@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16789026@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C61 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16822727@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16822727@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins16822727@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_NP_C0603_106':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS4172@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins4172@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins4172@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_NP_C0402_104':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS4198@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins4198@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins4198@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_NP_C0603_106':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS4276@BOVEY.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins4276@bovey.\cap_np.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins4276@bovey.\cap_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'V_DIODE_SMA_B340A':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16821470@BOVEY.V_DIODE.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16821470@bovey.\v_diode.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins16821470@bovey.\v_diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'F_FUSE_F1210_SMD200':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS46315@BOVEY.F_FUSE.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins46315@bovey.\f_fuse.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins46315@bovey.\f_fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB1 'R2_L0603_BLM18AG331SN1D':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS36082@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins36082@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins36082@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ G1 'G_OSC_4PINPASSIVE_OSC_3225_8MHZ':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS42270@BOVEY.G_OSC_4PINPASSIVE.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins42270@bovey.\g_osc_4pinpassive.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins42270@bovey.\g_osc_4pinpassive.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'XS_CON6_CON1X6_2R0_HDR_SIP_CON6':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16796181@BOVEY.XS_CON6.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16796181@bovey.\xs_con6.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16796181@bovey.\xs_con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'XS_IPX_IPX_XS_IPX':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS20693@BOVEY.XS_IPX.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins20693@bovey.\xs_ipx.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins20693@bovey.\xs_ipx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'XS_CON5_CON1X5_2R0_HDR_SIP_CON5':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16791682@BOVEY.XS_CON5.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16791682@bovey.\xs_con5.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16791682@bovey.\xs_con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'XS_CON2X9_CON2X9-2R0-5R5X20_CON':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16779454@BOVEY.XS_CON2X9.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16779454@bovey.\xs_con2x9.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16779454@bovey.\xs_con2x9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'XS_MINI_USB_CONN_USB_MINI_B_SMD':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16757794@BOVEY.XS_MINI_USB.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16757794@bovey.\xs_mini_usb.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16757794@bovey.\xs_mini_usb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'XS_CON4_CON1X4_2R54-DIP_CON4':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS40065@BOVEY.XS_CON4.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins40065@bovey.\xs_con4.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins40065@bovey.\xs_con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'XS_IPX_IPX_XS_IPX':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS11122@BOVEY.XS_IPX.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins11122@bovey.\xs_ipx.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins11122@bovey.\xs_ipx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'CON4_0_53261-0271_53261-0271':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16794005@APOLLO-Z701.CON4_0.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16794005@\apollo-z701\.\con4_0.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins16794005@\apollo-z701\.\con4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'CON4_0_53261-0271_53261-0271':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16794123@APOLLO-Z701.CON4_0.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16794123@\apollo-z701\.\con4_0.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins16794123@\apollo-z701\.\con4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'CON4_0_53261-0271_53261-0271':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16795652@APOLLO-Z701.CON4_0.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16795652@\apollo-z701\.\con4_0.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins16795652@\apollo-z701\.\con4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'DLW21HN900SQ2L_L0805_4PIN_DLW21':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS37571@BOVEY.DLW21HN900SQ2L.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins37571@bovey.\dlw21hn900sq2l.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins37571@bovey.\dlw21hn900sq2l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'L_L0402_6.8NH':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS15513@BOVEY.L.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins15513@bovey.\l.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins15513@bovey.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'L_L0402_6.8NH':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS15539@BOVEY.L.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins15539@bovey.\l.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins15539@bovey.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'L_L2020_4.7UH':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS61309@BOVEY.L.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins61309@bovey.\l.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins61309@bovey.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'L_L2525_6.8UH':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS56628@BOVEY.L.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins56628@bovey.\l.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins56628@bovey.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L6 'L_L0402_27NH':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16822661@BOVEY.L.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16822661@bovey.\l.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins16822661@bovey.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'NPN_SOT-23_DTC114TET1G':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS18148@BOVEY.NPN.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins18148@bovey.\npn.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins18148@bovey.\npn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'NPN_SOT-23_DTC114TET1G':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS18118@BOVEY.NPN.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins18118@bovey.\npn.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins18118@bovey.\npn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'NPN_SOT-23_DTC114TET1G':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS9168@BOVEY.NPN.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins9168@bovey.\npn.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins9168@bovey.\npn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16813640@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16813640@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16813640@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R2_R0402_101':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS33090@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins33090@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins33090@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R2_R0402_101':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS33112@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins33112@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins33112@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R2_R0402_101':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS33172@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins33172@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins33172@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R2_R0402_101':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS33142@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins33142@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins33142@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R2_R0402_472':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS40606@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins40606@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins40606@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R2_R0402_472':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS40635@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins40635@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins40635@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R2_R0402_1002':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS26070@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins26070@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins26070@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R2_R0402_101':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS24318@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins24318@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins24318@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16763983@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16763983@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16763983@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R2_R0402_1002':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS23839@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins23839@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins23839@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16813651@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16813651@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16813651@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS33468@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins33468@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins33468@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R2_R0402_1002':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS23813@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins23813@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins23813@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS33800@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins33800@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins33800@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R2_R0402_0':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS10865@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins10865@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins10865@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS9115@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins9115@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins9115@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R2_R0402_101':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS9216@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins9216@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins9216@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R2_R0402_101':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS9428@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins9428@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins9428@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R2_R0402_101':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS9454@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins9454@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins9454@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS19309@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins19309@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins19309@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS17403@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins17403@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins17403@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16813679@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16813679@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16813679@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS18716@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins18716@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins18716@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS18742@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins18742@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins18742@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS18310@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins18310@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins18310@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS18336@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins18336@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins18336@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R2_R0402_101':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS21087@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins21087@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins21087@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R2_R0402_101':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS21103@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins21103@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins21103@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R2_R0402_0':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS20914@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins20914@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins20914@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R2_R0402_0':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS20940@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins20940@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins20940@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R2_R0402_5623':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS61618@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins61618@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins61618@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R2_R0402_1003':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS61642@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins61642@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins61642@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16813665@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16813665@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16813665@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R2_R0402_1002':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS57008@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins57008@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins57008@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R2_R0402_4992':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS57231@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins57231@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins57231@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R2_R0402_2491':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS57034@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins57034@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins57034@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R2_R0402_0':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16821864@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16821864@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins16821864@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'R2_R0402_100':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16822628@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16822628@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins16822628@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R2_R0402_102':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16813373@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16813373@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16813373@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R2_R0402_0':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16787726@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16787726@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16787726@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R2_R0402_101':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16787683@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16787683@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16787683@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R2_R0402_220':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS36377@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins36377@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins36377@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R2_R0402_220':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS36403@BOVEY.R2.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins36403@bovey.\r2.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins36403@bovey.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'S_PUSHBUTTON-SPST-2PIN_SW_SPST_':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16775025@BOVEY.S_PUSHBUTTON-SPST-2PIN.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16775025@bovey.\s_pushbutton-spst-2pin.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16775025@bovey.\s_pushbutton-spst-2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'D_MKL26Z256VLH4_LQFP64-10X10_MK':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS556@BOVEY.D_MKL26Z256VLH4.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins556@bovey.\d_mkl26z256vlh4.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins556@bovey.\d_mkl26z256vlh4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'N_PWR_ADP122_0_SOT23-5_TPS73130':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS57818@IOT MODULE.N_PWR_ADP122_0.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins57818@\iot module\.\n_pwr_adp122_0.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins57818@\iot module\.\n_pwr_adp122_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'N_PWR_ADP122_1_SOT23-5_TPS62200':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS60229@IOT MODULE.N_PWR_ADP122_1.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins60229@\iot module\.\n_pwr_adp122_1.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins60229@\iot module\.\n_pwr_adp122_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'N_PWR_TPS54331D_SO8N_6R0_1R27_T':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS55344@BOVEY.N_PWR_TPS54331D.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins55344@bovey.\n_pwr_tps54331d.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins55344@bovey.\n_pwr_tps54331d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'D_TRS_SN74LVC245ARGY_PVQFN20_4R':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS277@BOVEY.D_TRS_SN74LVC245ARGY.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins277@bovey.\d_trs_sn74lvc245argy.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins277@bovey.\d_trs_sn74lvc245argy.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'D_PRTR5V0U2X_0_SOT-143B_PRTR5V0':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS36733@IOT MODULE.D_PRTR5V0U2X_0.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins36733@\iot module\.\d_prtr5v0u2x_0.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins36733@\iot module\.\d_prtr5v0u2x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'D_TRS_MAX3232EUE_SOP16-0R65-6R4':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS6229@BOVEY.D_TRS_MAX3232EUE.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins6229@bovey.\d_trs_max3232eue.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins6229@bovey.\d_trs_max3232eue.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'D_SP706TEN_SO8N_6R0_1R27_SP706T':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS23486@BOVEY.D_SP706TEN.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins23486@bovey.\d_sp706ten.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins23486@bovey.\d_sp706ten.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'D_A8500_A8500_A8500':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS8975@BOVEY.D_A8500.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins8975@bovey.\d_a8500.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins8975@bovey.\d_a8500.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'D_NEO-6_NEO-6_NEO-6Q':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS20332@BOVEY.D_NEO-6.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins20332@bovey.\d_neo-6.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins20332@bovey.\d_neo-6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'D_SN74CBTLV3257RGY_0_PVQFN16_4X':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16732373@IOT MODULE.D_SN74CBTLV3257RGY_0.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16732373@\iot module\.\d_sn74cbtlv3257rgy_0.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins16732373@\iot module\.\d_sn74cbtlv3257rgy_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'D_ESP_12F_ESP-12F_ESP-12F':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS20451@BOVEY.D_ESP_12F.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins20451@bovey.\d_esp_12f.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins20451@bovey.\d_esp_12f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V1 'V_DIODE_SOD-523_RB520S30T':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS46363@BOVEY.V_DIODE.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins46363@bovey.\v_diode.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins46363@bovey.\v_diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V10 'V_DIODE_SOD-523_RB520S30T':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS21173@BOVEY.V_DIODE.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins21173@bovey.\v_diode.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins21173@bovey.\v_diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V11 'V_DIODE ZENER_SOD-523_ESD5Z5.0T':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16802702@BOVEY.V_DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16802702@bovey.\v_diode zener.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins16802702@bovey.\v_diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V12 'V_DIODE ZENER_SOD-523_ESD5Z5.0T':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16802872@BOVEY.V_DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16802872@bovey.\v_diode zener.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins16802872@bovey.\v_diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V13 'V_DIODE ZENER_SOD-523_ESD5Z5.0T':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16803538@BOVEY.V_DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16803538@bovey.\v_diode zener.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins16803538@bovey.\v_diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V14 'V_DIODE ZENER_SOD-523_ESD5Z5.0T':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16803546@BOVEY.V_DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16803546@bovey.\v_diode zener.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins16803546@bovey.\v_diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V15 'V_DIODE ZENER_SOD-523_ESD5Z5.0T':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16805702@BOVEY.V_DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16805702@bovey.\v_diode zener.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16805702@bovey.\v_diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V16 'V_DIODE ZENER_SOD-523_ESD5Z5.0T':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16805715@BOVEY.V_DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16805715@bovey.\v_diode zener.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16805715@bovey.\v_diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V17 'V_DIODE ZENER_SOD-523_ESD5Z5.0T':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16813384@BOVEY.V_DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16813384@bovey.\v_diode zener.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16813384@bovey.\v_diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V2 'V_LED_V0603_V_LED':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS16763324@BOVEY.V_LED.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins16763324@bovey.\v_led.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins16763324@bovey.\v_led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V3 'V_LED_V0603_V_LED':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS33448@BOVEY.V_LED.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins33448@bovey.\v_led.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins33448@bovey.\v_led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V4 'V_LED_V0603_V_LED':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS33780@BOVEY.V_LED.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins33780@bovey.\v_led.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page2_ins33780@bovey.\v_led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V5 'V_DIODE_SOD-523_RB520S30T':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS9528@BOVEY.V_DIODE.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins9528@bovey.\v_diode.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins9528@bovey.\v_diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V6 'V_LED_V0603_V_LED':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS18775@BOVEY.V_LED.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins18775@bovey.\v_led.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins18775@bovey.\v_led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V7 'V_LED_V0603_V_LED':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS18791@BOVEY.V_LED.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins18791@bovey.\v_led.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins18791@bovey.\v_led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V8 'V_DIODE ZENER_SOD-523_ESD5Z5.0T':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS17429@BOVEY.V_DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins17429@bovey.\v_diode zener.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page3_ins17429@bovey.\v_diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V9 'V_DIODE_SOD-523_RB520S30T':;
+
+SECTION_NUMBER 1
+ '@IOT MODULE_V1.0.2_SCH.SCHEMATIC1(SCH_1):INS21199@BOVEY.V_DIODE.NORMAL(CHIPS)':
+ C_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):ins21199@bovey.\v_diode.normal\(chips)',
+ P_PATH='@\iot module_v1.0.2_sch\.schematic1(sch_1):page4_ins21199@bovey.\v_diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
