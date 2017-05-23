@@ -1,0 +1,75 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/iofiles"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/pdd/inc"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Linker_EntryPoint</name>
+      <value />
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Sources/ProcessorExpert.c" FileDate="2017-04-22, 15:05:48" FileAge="1492844748976" FileType="128" />
+      <File Name="Documentation/doxygen/GPTA.txt" FileDate="2017-05-13, 19:31:12" FileAge="1494675072311" FileType="45637" CompNumb="44" />
+      <File Name="Documentation/doxygen/uart1.txt" FileDate="2016-08-07, 02:48:44" FileAge="1470509324189" FileType="45637" CompNumb="32" />
+      <File Name="Generated_Code/GPTA.h" FileDate="2017-05-13, 19:31:12" FileAge="1494675072288" FileType="45637" CompNumb="44" />
+      <File Name="Generated_Code/TU1.h" FileDate="2017-04-16, 13:30:47" FileAge="1492320647437" FileType="45637" CompNumb="56" />
+      <File Name="Generated_Code/GPTA.c" FileDate="2017-05-13, 19:31:12" FileAge="1494675072307" FileType="45637" CompNumb="44" />
+      <File Name="Sources/Events.h" FileDate="2017-04-22, 15:05:49" FileAge="1492844749596" FileType="131328" />
+      <File Name="Project_Settings/Debugger/MKL26Z256.mem" FileDate="2016-07-29, 09:33:39" FileAge="1469756019675" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2017-04-16, 13:30:47" FileAge="1492320647429" FileType="45637" />
+      <File Name="Sources/mqx_tasks.h" FileDate="2017-04-15, 13:46:12" FileAge="1492235172613" FileType="131328" />
+      <File Name="Generated_Code/TU1.c" FileDate="2017-04-22, 15:05:48" FileAge="1492844748957" FileType="45637" CompNumb="56" />
+      <File Name="Sources/Events.c" FileDate="2017-04-22, 16:09:34" FileAge="1492848574079" FileType="131328" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2017-04-22, 15:05:48" FileAge="1492844748963" FileType="45637" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2017-04-16, 13:30:47" FileAge="1492320647430" FileType="45637" />
+      <File Name="Documentation/doxygen/InnerFlash.txt" FileDate="2017-04-23, 00:49:22" FileAge="1492879762533" FileType="45637" CompNumb="66" />
+      <File Name="Sources/mqx_tasks.c" FileDate="2017-05-13, 19:26:40" FileAge="1494674800919" FileType="131328" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2017-04-23, 00:49:22" FileAge="1492879762637" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2017-04-16, 13:28:54" FileAge="1492320534718" FileType="45637" />
+      <File Name="Documentation/doxygen/uart0.txt" FileDate="2017-04-15, 19:50:43" FileAge="1492257043750" FileType="45637" CompNumb="36" />
+      <File Name="Generated_Code/InnerFlash.h" FileDate="2017-04-23, 00:49:22" FileAge="1492879762490" FileType="45637" CompNumb="66" />
+      <File Name="Documentation/ProcessorExpert_Settings.xml" FileDate="2017-05-13, 19:31:12" FileAge="1494675072381" FileType="3072" />
+      <File Name="Generated_Code/uart2.h" FileDate="2017-04-16, 13:30:47" FileAge="1492320647444" FileType="45637" CompNumb="28" />
+      <File Name="Generated_Code/InnerFlash.c" FileDate="2017-04-23, 00:49:22" FileAge="1492879762500" FileType="45637" CompNumb="66" />
+      <File Name="Generated_Code/uart2.c" FileDate="2017-04-16, 13:30:47" FileAge="1492320647443" FileType="45637" CompNumb="28" />
+      <File Name="Documentation/doxygen/GPTC.txt" FileDate="2017-04-15, 14:25:25" FileAge="1492237525029" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/uart1.h" FileDate="2017-04-16, 13:30:47" FileAge="1492320647442" FileType="45637" CompNumb="32" />
+      <File Name="Documentation/ProcessorExpert.txt" FileDate="2017-04-22, 15:05:49" FileAge="1492844749874" FileType="3072" />
+      <File Name="Generated_Code/uart1.c" FileDate="2017-04-16, 13:30:47" FileAge="1492320647441" FileType="45637" CompNumb="32" />
+      <File Name="Generated_Code/GPTE.h" FileDate="2017-04-16, 13:30:47" FileAge="1492320647429" FileType="45637" CompNumb="17" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2016-11-18, 13:29:23" FileAge="1479446963590" FileType="8" CompNumb="6" />
+      <File Name="Generated_Code/TI100ms.h" FileDate="2017-04-16, 13:30:47" FileAge="1492320647436" FileType="45637" CompNumb="55" />
+      <File Name="Generated_Code/uart0.h" FileDate="2017-04-22, 15:05:48" FileAge="1492844748852" FileType="45637" CompNumb="36" />
+      <File Name="Generated_Code/GPTE.c" FileDate="2017-04-16, 13:30:47" FileAge="1492320647428" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/TI100ms.c" FileDate="2017-04-16, 13:30:47" FileAge="1492320647435" FileType="45637" CompNumb="55" />
+      <File Name="Generated_Code/uart0.c" FileDate="2017-04-22, 15:05:48" FileAge="1492844748875" FileType="45637" CompNumb="36" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2016-07-29, 09:33:39" FileAge="1469756019685" FileType="45637" CompNumb="6" />
+      <File Name="Documentation/ProcessorExpert_SIGNALS.txt" FileDate="2017-05-13, 19:31:12" FileAge="1494675072366" FileType="3072" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2017-04-22, 15:05:49" FileAge="1492844749137" FileType="45637" CompNumb="6" />
+      <File Name="Documentation/doxygen/ProcessorExpert.txt" FileDate="2017-04-22, 15:05:49" FileAge="1492844749097" FileType="45637" CompNumb="6" />
+      <File Name="Documentation/doxygen/GPTB.txt" FileDate="2017-04-15, 13:46:12" FileAge="1492235172568" FileType="45637" CompNumb="16" />
+      <File Name="Documentation/doxygen/uart2.txt" FileDate="2016-08-07, 02:48:44" FileAge="1470509324393" FileType="45637" CompNumb="28" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2017-04-22, 15:05:49" FileAge="1492844749128" FileType="45637" CompNumb="6" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2016-07-29, 09:33:39" FileAge="1469756019495" FileType="16384" CompNumb="6" />
+      <File Name="Documentation/doxygen/TI100ms.txt" FileDate="2017-04-16, 13:34:21" FileAge="1492320861323" FileType="45637" CompNumb="55" />
+      <File Name="Generated_Code/GPTC.h" FileDate="2017-04-16, 13:30:47" FileAge="1492320647427" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2017-04-23, 00:49:22" FileAge="1492879762578" FileType="45637" CompNumb="6" />
+      <File Name="Documentation/doxygen/TU1.txt" FileDate="2017-04-16, 13:34:21" FileAge="1492320861151" FileType="45637" CompNumb="56" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2016-07-29, 09:33:39" FileAge="1469756019679" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/GPTC.c" FileDate="2017-04-16, 13:30:47" FileAge="1492320647426" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2017-04-23, 00:49:22" FileAge="1492879762596" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/GPTB.h" FileDate="2017-04-16, 13:30:47" FileAge="1492320647425" FileType="45637" CompNumb="16" />
+      <File Name="Documentation/doxygen/GPTE.txt" FileDate="2017-04-15, 13:46:12" FileAge="1492235172570" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/GPTB.c" FileDate="2017-04-16, 13:30:47" FileAge="1492320647424" FileType="45637" CompNumb="16" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>70</CodeGenReference>
+</CodeGenerationInfo>
