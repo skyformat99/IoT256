@@ -1,0 +1,8 @@
+更改电源方案
+U12 TPS54331 替换为 LMR14030SDDAR 参考价格4.5元/pcs
+R42 -> 18Kohm
+R40 -> 73.2Kohm = 75Kohm // 2.7Mohm
+C57 -> 20Kohm set freq 1.2MHz
+C53, C54, C31正常装配
+C58不装，R41不装
+原增加负载要求取消。

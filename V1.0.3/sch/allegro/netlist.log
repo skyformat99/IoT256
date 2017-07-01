@@ -1,0 +1,46 @@
+{ Using PSTWRITER 17.2.0 d001Jun-17-2017 at 08:14:34 }
+
+#1 WARNING(ORCAP-36006): Part Name "XS_CON2X9_CON2X9-2R0-5R5X20_CON2X9" is renamed to "XS_CON2X9_CON2X9-2R0-5R5X20_CON".
+#2 WARNING(ORCAP-36006): Part Name "XS_MINI_USB_CONN_USB_MINI_B_SMD_MINI_USB" is renamed to "XS_MINI_USB_CONN_USB_MINI_B_SMD".
+#3 WARNING(ORCAP-36006): Part Name "DLW21HN900SQ2L_L0805_4PIN_DLW21HN900SQ2L" is renamed to "DLW21HN900SQ2L_L0805_4PIN_DLW21".
+#4 WARNING(ORCAP-36006): Part Name "S_PUSHBUTTON-SPST-2PIN_SW_SPST_SMT_4X3X2_SPST-2PIN" is renamed to "S_PUSHBUTTON-SPST-2PIN_SW_SPST_".
+#5 WARNING(ORCAP-36006): Part Name "D_MKL26Z256VLH4_LQFP64-10X10_MKL26Z256VLH4" is renamed to "D_MKL26Z256VLH4_LQFP64-10X10_MK".
+#6 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#3" as visible power pin of same name already exists in Package D_MKL26Z256VLH4 , U1: SCHEMATIC1, 01 MCU (60.96, 10.16).
+#7 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#30" as visible power pin of same name already exists in Package D_MKL26Z256VLH4 , U1: SCHEMATIC1, 01 MCU (60.96, 10.16).
+#8 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#48" as visible power pin of same name already exists in Package D_MKL26Z256VLH4 , U1: SCHEMATIC1, 01 MCU (60.96, 10.16).
+#9 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#47" as visible power pin of same name already exists in Package D_MKL26Z256VLH4 , U1: SCHEMATIC1, 01 MCU (60.96, 10.16).
+#10 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#31" as visible power pin of same name already exists in Package D_MKL26Z256VLH4 , U1: SCHEMATIC1, 01 MCU (60.96, 10.16).
+#11 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#4" as visible power pin of same name already exists in Package D_MKL26Z256VLH4 , U1: SCHEMATIC1, 01 MCU (60.96, 10.16).
+#12 WARNING(ORCAP-36006): Part Name "N_TPS22860DBVR_DBV0006A_N_TPS22860DBVR" is renamed to "N_TPS22860DBVR_DBV0006A_N_TPS22".
+#13 WARNING(ORCAP-36006): Part Name "N_PWR_TPS54331DDA_DDA8_3X2P13_TPS54331DDAR" is renamed to "N_PWR_TPS54331DDA_DDA8_3X2P13_T".
+#14 WARNING(ORCAP-36006): Part Name "SIM_QFN5X6-8_SON8_5X6_PAD_SIM_QFN5X6-8" is renamed to "SIM_QFN5X6-8_SON8_5X6_PAD_SIM_Q".
+#15 WARNING(ORCAP-36006): Part Name "D_TRS_SN74LVC245ARGY_PVQFN20_4R5X3R5_PAD2R05X3R05_SN74LVC245A" is renamed to "D_TRS_SN74LVC245ARGY_PVQFN20_4R".
+#16 WARNING(ORCAP-36006): Part Name "D_PRTR5V0U2X_0_SOT-143B_PRTR5V0U2X" is renamed to "D_PRTR5V0U2X_0_SOT-143B_PRTR5V0".
+#17 WARNING(ORCAP-36006): Part Name "D_TRS_MAX3232EUE_SOP16-0R65-6R4_MAX3232EUE" is renamed to "D_TRS_MAX3232EUE_SOP16-0R65-6R4".
+#18 WARNING(ORCAP-36006): Part Name "D_SP706TEN_SO8N_6R0_1R27_SP706TEN" is renamed to "D_SP706TEN_SO8N_6R0_1R27_SP706T".
+#19 WARNING(ORCAP-36042): Pin "VBAT" is renamed to "VBAT#38" as visible power pin of same name already exists in Package D_A8500 , U6: SCHEMATIC1, 02 GSM (91.44, 27.94).
+#20 WARNING(ORCAP-36042): Pin "VBAT" is renamed to "VBAT#39" as visible power pin of same name already exists in Package D_A8500 , U6: SCHEMATIC1, 02 GSM (91.44, 27.94).
+#21 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#32" as visible power pin of same name already exists in Package D_A8500 , U6: SCHEMATIC1, 02 GSM (91.44, 27.94).
+#22 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#36" as visible power pin of same name already exists in Package D_A8500 , U6: SCHEMATIC1, 02 GSM (91.44, 27.94).
+#23 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#37" as visible power pin of same name already exists in Package D_A8500 , U6: SCHEMATIC1, 02 GSM (91.44, 27.94).
+#24 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#13" as visible power pin of same name already exists in Package D_A8500 , U6: SCHEMATIC1, 02 GSM (91.44, 27.94).
+#25 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#8" as visible power pin of same name already exists in Package D_A8500 , U6: SCHEMATIC1, 02 GSM (91.44, 27.94).
+#26 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package D_A8500 , U6: SCHEMATIC1, 02 GSM (91.44, 27.94).
+#27 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#3" as visible power pin of same name already exists in Package D_A8500 , U6: SCHEMATIC1, 02 GSM (91.44, 27.94).
+#28 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package D_A8500 , U6: SCHEMATIC1, 02 GSM (91.44, 27.94).
+#29 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#13" as visible power pin of same name already exists in Package D_NEO-6 , U7: SCHEMATIC1, 03 WIFI and GPS and PWR (63.50, 35.56).
+#30 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#24" as visible power pin of same name already exists in Package D_NEO-6 , U7: SCHEMATIC1, 03 WIFI and GPS and PWR (63.50, 35.56).
+#31 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#12" as visible power pin of same name already exists in Package D_NEO-6 , U7: SCHEMATIC1, 03 WIFI and GPS and PWR (63.50, 35.56).
+#32 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#10" as visible power pin of same name already exists in Package D_NEO-6 , U7: SCHEMATIC1, 03 WIFI and GPS and PWR (63.50, 35.56).
+#33 WARNING(ORCAP-36006): Part Name "D_SN74CBTLV3257RGY_0_PVQFN16_4X3R5_PAD2R05X2R55_SN74CBTLV3257RGY" is renamed to "D_SN74CBTLV3257RGY_0_PVQFN16_4X".
+#34 WARNING(ORCAP-36006): Part Name "V_DIODE ZENER_SOD-523_ESD5Z5.0T1" is renamed to "V_DIODE ZENER_SOD-523_ESD5Z5.0T".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\WORK\PRJ\【02】【项目】\【02】【项目】【天荣】IOT MODULE\V1.0.3\SCH\allegro/pstchip.dat
+
+Loading... D:\WORK\PRJ\【02】【项目】\【02】【项目】【天荣】IOT MODULE\V1.0.3\SCH\allegro/pstchip.dat
+
+Loading... D:\WORK\PRJ\【02】【项目】\【02】【项目】【天荣】IOT MODULE\V1.0.3\SCH\allegro/pstxprt.dat
+
+Loading... D:\WORK\PRJ\【02】【项目】\【02】【项目】【天荣】IOT MODULE\V1.0.3\SCH\allegro/pstxnet.dat
+packaging the design view...

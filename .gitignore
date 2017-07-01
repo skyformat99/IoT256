@@ -1,8 +1,13 @@
 *.[ao]
 *.opj
-*.log
-*.txt
-*.dat
+*.dbk
+*.dml
+*.dmp
+*.jrl
+*,1
+*,2
+*/pcb/signoise.run/
+*/sch/signoise.run/
 /Software/
 /datasheet/
 
